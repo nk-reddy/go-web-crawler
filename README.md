@@ -1,1 +1,3 @@
-web crawler projct in go
+web crawler project in go
+
+chmod +x run.sh
